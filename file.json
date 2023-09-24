@@ -1,0 +1,193 @@
+{
+    "State.8fe4592a-ce49-42f4-9af5-119bb5261ece": {
+        "id": "8fe4592a-ce49-42f4-9af5-119bb5261ece",
+        "created_at": "2023-09-17T13:28:35.167199",
+        "updated_at": "2023-09-17T13:28:35.167199",
+        "name": "California",
+        "__class__": "State"
+    },
+    "State.606e35ed-bf12-4ae2-9fa1-b30020ef04e9": {
+        "id": "606e35ed-bf12-4ae2-9fa1-b30020ef04e9",
+        "created_at": "2023-09-17T13:28:35.168011",
+        "updated_at": "2023-09-17T13:28:35.168011",
+        "name": "Arizona",
+        "__class__": "State"
+    },
+    "Place.bccaed45-a7f1-4aca-9ed6-97680e0c41c5": {
+        "id": "bccaed45-a7f1-4aca-9ed6-97680e0c41c5",
+        "created_at": "2023-09-17T13:28:35.169490",
+        "updated_at": "2023-09-17T13:28:35.169490",
+        "city_id": "0001",
+        "user_id": "0001",
+        "name": "My little house",
+        "number_rooms": 4,
+        "number_bathrooms": 2,
+        "max_guest": 10,
+        "price_by_night": 300,
+        "latitude": 37.773972,
+        "longitude": -122.431297,
+        "__class__": "Place"
+    },
+    "State.79ccf59b-a101-4706-a2b3-68a963acdeea": {
+        "id": "79ccf59b-a101-4706-a2b3-68a963acdeea",
+        "created_at": "2023-09-19T10:46:38.343876",
+        "updated_at": "2023-09-19T10:46:38.343876",
+        "name": "California",
+        "__class__": "State"
+    },
+    "State.6c4e04c2-15ea-419e-a328-eca8f1d91f4c": {
+        "id": "6c4e04c2-15ea-419e-a328-eca8f1d91f4c",
+        "created_at": "2023-09-19T10:46:38.344807",
+        "updated_at": "2023-09-19T10:46:38.344807",
+        "name": "Arizona",
+        "__class__": "State"
+    },
+    "Place.b4312168-eb59-4f76-a6ba-8efbbb303b9c": {
+        "id": "b4312168-eb59-4f76-a6ba-8efbbb303b9c",
+        "created_at": "2023-09-19T10:46:38.347227",
+        "updated_at": "2023-09-19T10:46:38.347227",
+        "city_id": "0001",
+        "user_id": "0001",
+        "name": "My little house",
+        "number_rooms": 4,
+        "number_bathrooms": 2,
+        "max_guest": 10,
+        "price_by_night": 300,
+        "latitude": 37.773972,
+        "longitude": -122.431297,
+        "__class__": "Place"
+    },
+    "State.cc1313c0-e8a2-4d0f-8b7a-ac6922ea504a": {
+        "id": "cc1313c0-e8a2-4d0f-8b7a-ac6922ea504a",
+        "created_at": "2023-09-20T11:53:24.627938",
+        "updated_at": "2023-09-20T11:53:24.627938",
+        "name": "California",
+        "__class__": "State"
+    },
+    "State.ec816303-751e-4041-8ab5-dabacdb4112d": {
+        "id": "ec816303-751e-4041-8ab5-dabacdb4112d",
+        "created_at": "2023-09-20T11:53:24.629532",
+        "updated_at": "2023-09-20T11:53:24.629532",
+        "name": "Arizona",
+        "__class__": "State"
+    },
+    "Place.fd7d5719-abc2-4128-9b40-a4cce83b15d1": {
+        "id": "fd7d5719-abc2-4128-9b40-a4cce83b15d1",
+        "created_at": "2023-09-20T11:53:24.633473",
+        "updated_at": "2023-09-20T11:53:24.633473",
+        "city_id": "0001",
+        "user_id": "0001",
+        "name": "My little house",
+        "number_rooms": 4,
+        "number_bathrooms": 2,
+        "max_guest": 10,
+        "price_by_night": 300,
+        "latitude": 37.773972,
+        "longitude": -122.431297,
+        "__class__": "Place"
+    },
+    "State.f3776daf-0111-433b-b03a-59b2acf7b8d5": {
+        "id": "f3776daf-0111-433b-b03a-59b2acf7b8d5",
+        "created_at": "2023-09-20T12:02:50.326255",
+        "updated_at": "2023-09-20T12:02:50.326255",
+        "name": "California",
+        "__class__": "State"
+    },
+    "State.9b02259d-4e7a-4404-b38d-e740ffea59b2": {
+        "id": "9b02259d-4e7a-4404-b38d-e740ffea59b2",
+        "created_at": "2023-09-20T12:02:50.328225",
+        "updated_at": "2023-09-20T12:02:50.328225",
+        "name": "Nevada",
+        "__class__": "State"
+    },
+    "State.b5919082-8db9-4bcc-9cdb-10eca29a4e3a": {
+        "id": "b5919082-8db9-4bcc-9cdb-10eca29a4e3a",
+        "created_at": "2023-09-20T12:04:33.873846",
+        "updated_at": "2023-09-20T12:04:33.873846",
+        "name": "California",
+        "__class__": "State"
+    },
+    "City.127a9731-288f-422d-b542-6090834bdc26": {
+        "id": "127a9731-288f-422d-b542-6090834bdc26",
+        "created_at": "2023-09-20T12:06:06.627231",
+        "updated_at": "2023-09-20T12:06:06.627231",
+        "state_id": "95a5abab-aa65-4861-9bc6-1da4a36069aa",
+        "name": "San Francisco",
+        "__class__": "City"
+    },
+    "City.eb219dab-c7a7-4171-98a0-8ad909e6a99f": {
+        "id": "eb219dab-c7a7-4171-98a0-8ad909e6a99f",
+        "created_at": "2023-09-20T12:06:31.436680",
+        "updated_at": "2023-09-20T12:06:31.436680",
+        "state_id": "95a5abab-aa65-4861-9bc6-1da4a36069aa",
+        "name": "San Jose",
+        "__class__": "City"
+    },
+    "User.d45a2143-e3e8-4c74-a09d-ec59aeda2781": {
+        "id": "d45a2143-e3e8-4c74-a09d-ec59aeda2781",
+        "created_at": "2023-09-20T12:08:06.293125",
+        "updated_at": "2023-09-20T12:08:06.293125",
+        "email": "gui@hbtn.io",
+        "password": "guipwd",
+        "first_name": "Guillaume",
+        "last_name": "Snow",
+        "__class__": "User"
+    },
+    "Place.c3d7fe62-d9b4-4f3f-b094-783152dfe6fd": {
+        "id": "c3d7fe62-d9b4-4f3f-b094-783152dfe6fd",
+        "created_at": "2023-09-20T12:09:47.529920",
+        "updated_at": "2023-09-20T12:09:47.529920",
+        "city_id": "4b457e66-c7c8-4f63-910f-fd91c3b7140b",
+        "user_id": "4f3f4b42-a4c3-4c20-a492-efff10d00c0b",
+        "name": "Lovely place",
+        "number_rooms": 3,
+        "number_bathrooms": 1,
+        "max_guest": 6,
+        "price_by_night": 120,
+        "latitude": 37.773972,
+        "longitude": -122.431297,
+        "__class__": "Place"
+    },
+    "User.ea501085-b413-406d-9be3-1c9f9c58649e": {
+        "id": "ea501085-b413-406d-9be3-1c9f9c58649e",
+        "created_at": "2023-09-20T12:11:35.548818",
+        "updated_at": "2023-09-20T12:11:35.548818",
+        "email": "bob@hbtn.io",
+        "password": "bobpwd",
+        "first_name": "Bob",
+        "last_name": "Dylan",
+        "__class__": "User"
+    },
+    "Review.04cc61d5-33e3-4745-83bb-386471b1f6df": {
+        "id": "04cc61d5-33e3-4745-83bb-386471b1f6df",
+        "created_at": "2023-09-20T12:11:44.521075",
+        "updated_at": "2023-09-20T12:11:44.521130",
+        "place_id": "ed72aa02-3286-4891-acbc-9d9fc80a1103",
+        "user_id": "d93638d9-8233-4124-8f4e-17786592908b",
+        "text": "Amazing place, huge kitchen",
+        "__class__": "Review"
+    },
+    "State.3d07d908-6261-4c19-a231-60d8dc1342f9": {
+        "id": "3d07d908-6261-4c19-a231-60d8dc1342f9",
+        "created_at": "2023-09-20T11:32:40.993303",
+        "updated_at": "2023-09-20T11:32:40.993328",
+        "name": "California",
+        "__class__": "State"
+    },
+    "City.873511d3-1336-49ca-a281-55f566d1170a": {
+        "id": "873511d3-1336-49ca-a281-55f566d1170a",
+        "created_at": "2023-09-20T11:33:52.728389",
+        "updated_at": "2023-09-20T11:33:52.728420",
+        "state_id": "95a5abab-aa65-4861-9bc6-1da4a36069aa",
+        "name": "San Francisco",
+        "__class__": "City"
+    },
+    "City.e1ced9fc-a846-444c-a3cb-4597a55215eb": {
+        "id": "e1ced9fc-a846-444c-a3cb-4597a55215eb",
+        "created_at": "2023-09-20T11:34:14.090390",
+        "updated_at": "2023-09-20T11:34:14.090434",
+        "state_id": "95a5abab-aa65-4861-9bc6-1da4a36069aa",
+        "name": "San Jose",
+        "__class__": "City"
+    }
+}
